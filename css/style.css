@@ -1,0 +1,21 @@
+.product-item {
+	display: inline-block;
+}
+
+img {
+    width: 225px;
+    height: 225px;
+}
+
+.buy-btn {
+	background-color: #4CAF50;
+	border: none;
+	font-size: 14px;
+	color: #FFFFFF;
+	padding: 14px;
+	text-align: center;
+}
+
+.buy-btn:hover {
+	background-color: #3e8e41;
+}
